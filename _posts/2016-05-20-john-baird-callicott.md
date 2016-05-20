@@ -1,0 +1,28 @@
+---
+ID: 559
+post_title: John Baird Callicott
+author: admin
+post_date: 2016-05-20 09:07:00
+post_excerpt: ""
+layout: post
+permalink: >
+  http://mindinganimals4.umich.mx/web/es/john-baird-callicott/
+published: true
+---
+<span style="font-weight: 400;">J. Baird Callicott es Profesor Investigador Distinguido de la Universidad del Norte de Texas, Denton. Su trabajo fue fundamental para el desarrollo del campo de filosofía ambiental; en 1971 enseñó el primer curso en ética ambiental. Es un Profesor Investigador Distinguido y un miembro del Departamento de Filosofía y Estudios Religiosos y del Instituto de Ciencias Aplicadas en la Universidad del Norte de Texas. Baird sostuvo la posición de Profesor de Filosofía y Recursos Naturales en la Universidad de Wisconsin – Stevens Point de 1969 a 1995, donde enseñó el primer curso (en el mundo) en éticas ambientales (1971). De 1994 al 2000, Baird ejerció como Vicepresidente y luego Presidente de la Sociedad Internacional para la Ética Ambiental. Otras posiciones distinguidas incluyen profesor visitante de filosofía en la Universidad de Yale, la Universidad de California Santa Barbara, la Universidad de Hawai’i y la Universidad de Florida.</span>
+
+<i><span style="font-weight: 400;">A Sand County Almanac</span></i><span style="font-weight: 400;"> de Aldo Leopold es uno de los textos seminales de la filosofía ambiental, y Baird Callicott es ampliamente considerado como el exponente líder contemporáneo de la ética land de Leopold. El libro de Baird </span><i><span style="font-weight: 400;">In Defense of the Land Ethic</span></i><span style="font-weight: 400;"> explora las fundaciones intelectuales del panorama de Leopold y busca proveerla con un tratamiento filosófico más completo; una publicación siguiente titulada </span><i><span style="font-weight: 400;">Beyond the Land Ethic </span></i><span style="font-weight: 400;">extiende más ampliamente la filosofía ambiental de Leopold. Baird es Coeditor en Jefe con Robert Frodeman de la publicación </span><i><span style="font-weight: 400;">A-Z Encyclopedia of Environmental Ethics and Philosophy</span></i><span style="font-weight: 400;">, la cual ha ganado premios. También es autor de numerosos artículos y capítulos sobre filosofía ambiental y ha servido como editor o coeditor de muchos libros, libros de textos, y trabajos de referencia en el mismo campo. </span>
+
+<span style="font-weight: 400;">Por 26 años, Baird vivió y enseñó en las extensiones del norte de los condados sand de Wisconsin, localizado en el Río de Wisconsin, sólo 90 millas de la choza de Aldo Leopold y del primer rancho de John Muir en Fountain Lake, la región que removió las almas de estos dos pensadores ambientales influyentes. Baird ha escrito que “el paisaje que ha ayudado a formar e inspirar el pensamiento evolucionario ecológico naciente del joven Muir y del maduro Leopold fue el escenario perfecto para inaugurar mi vocación de por vida como fundador de la filosofía ambiental académica”. </span>
+
+&nbsp;
+<ol start="1971">
+ 	<li><span style="font-weight: 400;"> Baird Callicott, University Distinguished Research Professor at the University of North Texas, Denton. He was instrumental in developing the field of environmental philosophy and in 1971 taught the world's first course in environmental ethics. He is a University Distinguished Research Professor and a member of the Department of Philosophy and Religion Studies and the Institute of Applied Sciences at the University of North Texas. Baird held the position of Professor of Philosophy and Natural Resources at the University of Wisconsin – Stevens Point from 1969 to 1995, where he taught the world’s first course in environmental ethics in 1971. From 1994 to 2000, Baird served as Vice President then President of the International Society for Environmental Ethics. Other distinguished positions include visiting professor of philosophy at Yale University, the University of California Santa Barbara, the University of Hawai’i and the University of Florida. </span></li>
+</ol>
+<span style="font-weight: 400;">Aldo Leopold's A Sand County Almanac is one of environmental philosophy’s seminal texts, and Baird Callicott is widely considered to be the leading contemporary exponent of Leopold's land ethic. Baird’s book In Defense of the Land Ethic explores the intellectual foundations of Leopold's outlook and seeks to provide it with a more complete philosophical treatment; and a following publication titled Beyond the Land Ethic further extends Leopold’s environmental philosophy.</span>
+
+<span style="font-weight: 400;">Earth’s Insights is also considered an important contribution to the field of comparative environmental philosophy. Baird is Coeditor in Chief with Robert Frodeman of the award winning, A-Z Encyclopedia of Environmental Ethics and Philosophy. He is also author of numerous journal articles and book chapters in environmental philosophy and has served as editor or coeditor of many books, textbooks, and reference works in the same field.</span>
+
+<span style="font-weight: 400;">For 26 years, Baird lived and taught in the northern reaches of Wisconsin's sand counties, located on the Wisconsin River, just ninety miles from Aldo Leopold's storied shack and John Muir's first homestead on Fountain Lake, the region that stirred the souls of these two very influential environmental thinkers. Baird has written that ‘the landscape that had helped shape and inspire the nascent evolutionary ecological thought of the youthful Muir and that of the mature Leopold was the perfect setting for me to inaugurate my life long vocation as a founder of academic environmental philosophy’.</span>
+
+&nbsp;
