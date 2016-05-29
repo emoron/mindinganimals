@@ -11,7 +11,7 @@ published: true
 ---
 <b>Minding Animals Internacional</b>
 
-&nbsp;
+[caption id="attachment_412" align="alignright" width="300"]<a href="http://mindinganimals.com"><img class="size-medium wp-image-412" src="http://mindinganimals4.umich.mx/web/wp-content/uploads/2016/05/minding-animals-logo-2-300x92.jpg" alt="Minding Animals International Inc." width="300" height="92" /></a> Minding Animals International Inc.[/caption]
 
 <i><span style="font-weight: 400;">Minding Animals Internacional</span></i><span style="font-weight: 400;"> Incorporado (MAI) provee una plataforma para el campo transdisciplinario de los Estudios Animales en todas sus formas (Estudios Animales-Humanos, Antrozoología, Estudios Críticos Animales, etc) para ser más sensibles hacia la protección de los animales. Es reconocido que la protección animal en este contexto abarca ambientalismo, liberación animal, derecho animal, protección de la vida salvaje, bienestar animal, ley y justicia animal, ciencias veterinarias y zoológicas (en ningún orden en particular). </span>
 
