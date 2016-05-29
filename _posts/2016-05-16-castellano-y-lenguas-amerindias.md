@@ -1,6 +1,6 @@
 ---
 ID: 208
-post_title: 'Minding Animals:  Interpretaciones en castellano y lenguas amerindias'
+post_title: 'Minding Animals:  interpretaciones en castellano y lenguas amerindias'
 author: ac
 post_date: 2016-05-16 20:09:56
 post_excerpt: >
