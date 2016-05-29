@@ -9,6 +9,8 @@ permalink: >
   http://mindinganimals4.umich.mx/web/es/bruno-latour/
 published: true
 ---
+<strong><em>[English below]</em></strong>
+
 <b>Bruno Latour</b>
 
 <span style="font-weight: 400;">Bruno Latour es uno de los líderes mundiales en teorías sociales. Posiblemente es mejor conocido en </span><i><span style="font-weight: 400;">Animal Studies</span></i><span style="font-weight: 400;"> por desarrollar la Teoría del Actor Red (con Michael Callon y John Law), y aunque sus estudios sobre la práctica científica fueron en algún momento asociados con aproximaciones construccionistas sociales a la filosofía de la ciencia, ha divergido significativamente de estas aproximaciones. Es mejor conocido por retirarse de la división subjetiva/objetiva y desarrollando el enfoque para trabajar en la práctica.</span>
