@@ -9,13 +9,15 @@ permalink: >
   http://mindinganimals4.umich.mx/web/es/kim-stallwood/
 published: true
 ---
+<strong><em>[English below]</em></strong>
+
 <b>Kim Stallwood</b>
 
 <span style="font-weight: 400;">Kim Stallwood es un académico independiente y escritor en Derecho animal. Tiene más de 35 años de compromiso personal y experiencia profesional como líder de algunas de las organizaciones más importantes en defensa animal en el Reino Unido y los Estados Unidos de Norteamérica. Esto incluye Compassion In World Farming, British Union for the Abolition of Vivisection, People for the Ethical Treatment of Animals, y The Animals’ Agenda Magazine. Cofundó el Animals and Society Institute (ASI) en 2005. Es director europeo de ASI.</span>
 
 <span style="font-weight: 400;">Las organizaciones en las que participa Kim incluyen Compassion In World Farming, League Against Cruel Sports, GREY2K USA y Alley Cat Allies. Sirvió en la mesa de directores de la Sociedad Vegana UK y RSPCA, y fue presidente fundador de la Canton Community Association en Baltimore, donde vivió por 18 años, fundó el primer parque para perros de la ciudad. Se convirtió en vegetariano en 1974 después de trabajar en un matadero de pollos y ha sido vegano desde 1976. Su libro, </span><i><span style="font-weight: 400;">GROWL: Life Lessons, Hard Truths, and Bold Strategies from an Animal Advocate</span></i><span style="font-weight: 400;"> (Lantern Books) examina 40 años de compromiso personal y defensa profesional por un mundo vegano con derechos animales. Tiene doble ciudadanía en el Reino Unido y en Estados Unidos de América. Su sitio web es </span><a href="http://www.kimstallwood.com"><span style="font-weight: 400;">www.kimstallwood.com</span></a><span style="font-weight: 400;">. Es director ejecutivo de Minding Animals. En MAC4, Kim ofrecerá una conferencia y presidirá el panel especial sobre Tom Regan. </span>
 
-&nbsp;
+<hr />
 
 <b>Kim Stallwood</b>
 
