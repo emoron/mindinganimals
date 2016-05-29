@@ -9,11 +9,13 @@ permalink: >
   http://mindinganimals4.umich.mx/web/es/peter-singer/
 published: true
 ---
+<strong><em>[English below]</em></strong>
+
 <b>Peter Singer</b>
 
 <span style="font-weight: 400;">Peter Singer es el profesor de bioética de la cátedra Ira W. DeCamp en el Centro Universitario por Valores Humanos en la Universidad Princeton, posición que ahora combina con la de Profesor Laureado en la Universidad de Melbourne. Es autor de </span><i><span style="font-weight: 400;">Liberación Animal</span></i><span style="font-weight: 400;">, a veces se le acredita por detonar el movimiento moderno de derechos animales, y nunca ha estado fuera de impresión desde su publicación en 1975. Sus otros libros incluyen </span><i><span style="font-weight: 400;">Practical Ethics, The Ethics of What We Eat</span></i><span style="font-weight: 400;"> (con Jim Mason), </span><i><span style="font-weight: 400;">The Life You Can Save, The Point of View of the Universe</span></i><span style="font-weight: 400;">, y más recientemente, </span><i><span style="font-weight: 400;">The Most Good You Can Do</span></i><span style="font-weight: 400;">. También editó </span><i><span style="font-weight: 400;">In Defense of Animals</span></i><span style="font-weight: 400;"> y su sucesor</span><i><span style="font-weight: 400;">, In Defense of Animals: The Second Wave.</span></i><span style="font-weight: 400;"> Junto con Paola Cavalieri, cofundó el Proyecto Gran Simio, un intento de obtener el reconocimiento de derechos básicos para los grandes simios, y co-editó un libro colectivo, también llamado </span><i><span style="font-weight: 400;">El Proyecto Gran Simio</span></i><span style="font-weight: 400;"> (la mayoría tiene traducción al castellano). En 2014, el Instituto Gottlieb Duttweiler lo clasificó 3ro en su lista de Líderes de Pensamiento Global (y en el lugar 16 en 2015), y la revista </span><i><span style="font-weight: 400;">Time</span></i><span style="font-weight: 400;"> lo ha nombrado entre las 100 personas más influyentes del mundo. Como australiano, en 2012 lo hicieron Fellow en la Orden de Australia, el mayor honor civil de su país. También es presidente de Derechos Animales Internacional y Patrón de Minding Animals Internacional. Peter participará en MAC4 vía Skype en dos sesiones especiales. </span>
 
-&nbsp;
+<hr />
 
 <b>Peter Singer</b>
 
