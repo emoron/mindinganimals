@@ -35,7 +35,7 @@ The conference co-organizers are Ana Cristina Ramírez Barreto from UMSNH, Morel
 
 <strong>Comité a cargo del programa ecuménico / Interfaith Programme and Multi-Faith Prayer Service Committee</strong>
 
-&nbsp;
+Dr. José Salvador Arellano Rodríguez and Robert T. Hall (UAQ)
 
 <hr />
 
